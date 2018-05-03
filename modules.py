@@ -49,7 +49,7 @@ class RemoveFolder(object):
         shutil.rmtree(self.path_to_remove_folder, ignore_errors=False)
         # получается что удаляется и сама папка, если нет, то раскоментить нижнее
         # os.system("rm " + self.path_to_remove_folder + "/* -y")
-
+#
 
 a = DownloadAchive()
 a.download_acrh()

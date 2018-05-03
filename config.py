@@ -8,3 +8,4 @@ constants = {"git_arch": "https://github.com/diglabby/diglab_landing_page/archiv
              "path_to_save_backup": 'D:\\Backup', # куда сохранять бэкап
              "path_to_prj": r'D:\\asd', # путь к тому, что сохранять в бэкап
              }
+
